@@ -14,8 +14,8 @@ else:
     print('НЕТ')
 
 #Третья задача
-figure_1 = int(input());
-figure_2 = int(input());
+figure_1 = int(input())
+figure_2 = int(input())
 print(figure_1 + figure_2)
 
 #Четвертая задача
